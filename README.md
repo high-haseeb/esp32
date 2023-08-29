@@ -1,2 +1,3 @@
-# ESP32 
-> i am learning about the esp32 mcu.
+ # The onboard LED blinks 😉 😉
+---
+* learning about the workings of esp-idf *
